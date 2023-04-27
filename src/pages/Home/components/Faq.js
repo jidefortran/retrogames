@@ -54,7 +54,7 @@ const Item = ({ title, children }) => {
 },
 {
     "id":4,
-    "question":" Can I play and game",
+    "question":" Can I play the game ?",
     "answer":"Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds"
     
 },{
